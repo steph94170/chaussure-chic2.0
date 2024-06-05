@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controller\Visitor\catalog;
+namespace App\Controller\Visitor\Catalog;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
